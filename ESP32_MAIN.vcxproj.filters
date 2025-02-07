@@ -29,10 +29,10 @@
     <ClInclude Include="__vm\arduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Sniper.h">
+    <ClInclude Include="__vm\.ESP32_MAIN.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="__vm\.ESP32_MAIN.vsarduino.h">
+    <ClInclude Include="Sniper.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
